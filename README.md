@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waterreedshimmer OR @dracchingan
+- 👋 Hi, I’m @waterreedshimmer
 - 👀 I’m interested in installing software on Ubuntu Linux
 - 🌱 I’m currently learning everything interesting I can find. At the moment I'm interested in artistic field, 2020 I started music and drawing. I also like creating handcraft jewelry but I lack of space and light at home.
 - 💞️ I’m looking to collaborate on ... for the moment I'm not interested in informatics because here in France they are very rude and don't care if you can answer right their questions. I could translate something small to french or brazilian. And I do report bugs. Sometimes my bug reports can give ideas of adding a new feature or program. But I can't myself write them. It has been more then 10years that I mainly use Ubuntu Linux, I also know Windows and Android. I speak too much and write too much, that people in informatiocs here dislike. But I'd say if I have a bug I always find the solution, even if I write 10pages trying to solve it by myself, so I'm not that bad in informatics as user.
